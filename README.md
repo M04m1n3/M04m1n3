@@ -15,12 +15,6 @@ I enjoy breaking systems responsibly to help make them safer — from classic we
 
 ---
 
-## 🛠️ Tech Stack
-**Security:** Nmap, Burp Suite, Metasploit, BloodHound, Nessus  
-**Scripting:** Python, Bash  
-
-
----
 
 ## 📂 What You’ll Find Here
 - Small red-teaming tools & scripts  
