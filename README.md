@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed-Amine (Mo)
 
-<!--
-**M04m1n3/M04m1n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Red Teamer • Cybersecurity Engineer • CTF Player
 
-Here are some ideas to get you started:
+I’m a cybersecurity engineering student focused on offensive security and AI red-teaming.  
+I enjoy breaking systems responsibly to help make them safer — from classic web/AD pentesting to adversarial testing of LLMs and agentic systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 What I Work On
+- AI Red Teaming: jailbreaks, prompt injection, tool misuse, agent failure modes  
+- Offensive Security: web, AD, network pentesting  
+- CTFs & Vulnerability Research  
+- Writing clear, reproducible security reports with mitigations
+
+---
+
+## 🛠️ Tech Stack
+**Security:** Nmap, Burp Suite, Metasploit, BloodHound, Nessus  
+**Scripting:** Python, Bash  
+
+
+---
+
+## 📂 What You’ll Find Here
+- Small red-teaming tools & scripts  
+- CTF writeups (sanitized)  
+- Proof-of-concepts for prompt injection / LLM failure modes  
+- Notes and experiments on agentic workflows
+
+> ⚠️ All work is for educational and defensive purposes only. No illegal activity.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mohammed-amine-djemmal  
+- Email: m_djemmal@estin.dz
+
+Thanks for stopping by 👋
