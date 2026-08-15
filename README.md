@@ -2,7 +2,7 @@
 
 AI Red Teamer • Cybersecurity Engineer • CTF Player
 
-I’m a cybersecurity engineering student focused on offensive security and AI red-teaming.  
+I’m a cybersecurity engineer focused on offensive security and AI red-teaming.  
 I enjoy breaking systems responsibly to help make them safer — from classic web/AD pentesting to adversarial testing of LLMs and agentic systems.
 
 ---
