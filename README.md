@@ -15,19 +15,8 @@ I enjoy breaking systems responsibly to help make them safer — from classic we
 
 ---
 
-
-## 📂 What You’ll Find Here
-- Small red-teaming tools & scripts  
-- CTF writeups (sanitized)  
-- Proof-of-concepts for prompt injection / LLM failure modes  
-- Notes and experiments on agentic workflows
-
-> ⚠️ All work is for educational and defensive purposes only. No illegal activity.
-
----
-
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/mohammed-amine-djemmal  
+- LinkedIn: https://www.linkedin.com/in/mohammed-amine-djemmal-808867268
 - Email: m_djemmal@estin.dz
 
 Thanks for stopping by 👋
